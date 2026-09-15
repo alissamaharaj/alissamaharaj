@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Alissa 👋
 
-<!--
-**alissamaharaj/alissamaharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Technology graduate pivoting into **controls, automation, and technical supply chain operations**.
 
-Here are some ideas to get you started:
+I combine hands-on clinical equipment maintenance experience with a self-directed study path in electronics, PLC programming, and feedback systems — documenting projects here as I build toward a career bridging engineering maintenance and strategic sourcing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Background
+
+- 🎓 BSc Biomedical Technology, University of the West Indies (Upper Second Class Honours)
+- 🛠️ Biomedical Technician experience — clinical asset calibration, preventative maintenance, compliance
+- ✅ CMMS Certified (ManWinWin Software)
+- ⚙️ Pursuing Diploma in Engineering Maintenance Technology (City & Guilds, via ATC)
+- 📦 Pursuing CTS Certificate in Procurement and Supply
+
+### 📚 Currently self-studying
+
+- Python for Everybody (University of Michigan)
+- PLC programming
+- Feedback systems & signals/systems fundamentals (MIT OCW)
+
+### 🚀 Projects
+
+Projects will be added here as each self-study milestone is completed — expect maintenance/automation tools, PLC simulations, and data analysis scripts.
+
+| Project | Description | Status |
+|---|---|---|
+| _Coming soon_ | | |
+
+### 📫 Get in touch
+
+- LinkedIn: www.linkedin.com/in/alissa-maharaj
+- Email: alissamaharaj315@gmail.com

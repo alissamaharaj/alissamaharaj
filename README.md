@@ -30,5 +30,5 @@ Projects will be added here as each self-study milestone is completed — expect
 
 ### 📫 Get in touch
 
-- LinkedIn: www.linkedin.com/in/alissa-maharaj
 - Email: alissamaharaj315@gmail.com
+- LinkedIn: www.linkedin.com/in/alissa-maharaj

@@ -1,8 +1,6 @@
 ## Hi there, I'm Alissa 👋
 
-UWI Honours graduate specializing **Systems Instrumentation and Analytical Control Frameworks**.
-
-I combine a strong foundation in electronic circuits and instrumentation variables with a self-directed study path in software-driven controls, data pipeline scaling, and automation logic. Documenting reproducible programming projects here as I work towards systems integration and data analyst roles.
+UWI Honours graduate with a foundation in electronics, instrumentation, and circuit theory, building toward a career in control systems and industrial data engineering. I'm self-teaching Python and documenting reproducible programming projects here as I work toward systems integration and data analyst roles.
 
 ---
 
@@ -13,9 +11,9 @@ I combine a strong foundation in electronic circuits and instrumentation variabl
 
 ### 📚 Currently self-studying
 
-- 🐍 **Data Engineering & Scripting** (University of Michigan): Mastering programmatic data structures, relational database integration (SQL), and automated text parsing utilizing Python.
-- ⚙️ **Industrial Control Logic:** Developing structured PLC programming frameworks, discrete sequential logic tracking, and virtual system integration methodologies.
-- 📊 **Feedback systems & Telemetry** (MIT OCW): Deepening foundational knowledge in signals and systems analysis, closed-loop feedback design, and automated parameter monitoring.
+- 🐍 ** Python & Data Fundamentals** (University of Michigan): Programmatic data structures, relational database integration (SQL), and automated text parsing.
+- ⚙️ **PLC Programming:** Structured control logic fundamentals, next after Python.
+- 📊 **Feedback systems & Telemetry** (MIT OCW): Control theory foundations, planned for later in the roadmap.
 
 ### 🚀 Projects
 

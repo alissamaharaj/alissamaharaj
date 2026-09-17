@@ -1,24 +1,21 @@
 ## Hi there, I'm Alissa 👋
 
-Biomedical Technology graduate pivoting into **controls, automation, and technical supply chain operations**.
+UWI Honours graduate specializing **Systems Instrumentation and Analytical Control Frameworks**.
 
-I combine hands-on clinical equipment maintenance experience with a self-directed study path in electronics, PLC programming, and feedback systems — documenting projects here as I build toward a career bridging engineering maintenance and strategic sourcing.
+I combine a strong foundation in electronic circuits and instrumentation variables with a self-directed study path in software-driven controls, data pipeline scaling, and automation logic. Documenting reproducible programming projects here as I work towards systems integration and data analyst roles.
 
 ---
 
 ### 🔧 Background
 
 - 🎓 BSc Biomedical Technology, University of the West Indies (Upper Second Class Honours)
-- 🛠️ Biomedical Technician experience — clinical asset calibration, preventative maintenance, compliance
-- ✅ CMMS Certified (ManWinWin Software)
-- ⚙️ Pursuing Diploma in Engineering Maintenance Technology (City & Guilds, via ATC)
-- 📦 Pursuing CTS Certificate in Procurement and Supply
+- 🛠️ Systems Analytics & Compliance - Automated asset logging, data-driven preventative maintenance analysis, and system verification routines.
 
 ### 📚 Currently self-studying
 
-- Python for Everybody (University of Michigan)
-- PLC programming
-- Feedback systems & signals/systems fundamentals (MIT OCW)
+- 🐍 **Data Engineering & Scripting** (University of Michigan): Mastering programmatic data structures, relational database integration (SQL), and automated text parsing utilizing Python.
+- ⚙️ **Industrial Control Logic:** Developing structured PLC programming frameworks, discrete sequential logic tracking, and virtual system integration methodologies.
+- 📊 **Feedback systems & Telemetry** (MIT OCW): Deepening foundational knowledge in signals and systems analysis, closed-loop feedback design, and automated parameter monitoring.
 
 ### 🚀 Projects
 

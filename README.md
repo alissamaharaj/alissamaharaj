@@ -23,7 +23,7 @@ Projects will be added here as each self-study milestone is completed — expect
 
 | Project | Description | Status |
 |---|---|---|
-| _Coming soon_ | | |
+| alarmist-sim | Alarm & Safety Logic Simulator | ⌛ In Progress |
 
 ### 📫 Get in touch
 

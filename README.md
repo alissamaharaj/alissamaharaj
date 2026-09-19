@@ -11,9 +11,9 @@ UWI Honours graduate with a foundation in electronics, instrumentation, and circ
 
 ### 📚 Currently self-studying
 
-- 🐍 **Python & Data Fundamentals** (University of Michigan): Programmatic data structures, relational database integration (SQL), and automated text parsing.
+- 🐍 **Python & Data Fundamentals** (Python for Everybody): Programmatic data structures, relational database integration (SQL), and automated text parsing.
 - ⚙️ **PLC Programming:** Structured control logic fundamentals, next after Python.
-- 📊 **Feedback systems & Telemetry** (MIT OCW): Control theory foundations, planned for later in the roadmap.
+- 📊 **Signals & Systems and Feedback Systems** (MIT OCW): Control theory foundations, planned for later in the roadmap.
 
 ### 🚀 Projects
 
@@ -21,7 +21,8 @@ Projects will be added here as each self-study milestone is completed — expect
 
 | Project | Description | Status |
 |---|---|---|
-| [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) | Alarm & Safety Logic Simulator | ⌛ In Progress |
+| [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) | Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
+| _Coming soon_ |||
 
 ### 📫 Get in touch
 

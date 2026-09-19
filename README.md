@@ -17,12 +17,12 @@ UWI Honours graduate with a foundation in electronics, instrumentation, and circ
 
 ### 🚀 Projects
 
-Projects will be added here as each self-study milestone is completed — expect maintenance/automation tools, PLC simulations, and data analysis scripts.
+Projects will be added here as each self-study milestone is completed (reverse chronological order) — expect maintenance/automation tools, PLC simulations, and data analysis scripts.
 
 | Project | Description | Status |
 |---|---|---|
-| [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) | Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 | _Coming soon_ |||
+| [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) | Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 
 ### 📫 Get in touch
 

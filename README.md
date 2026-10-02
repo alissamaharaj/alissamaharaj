@@ -1,6 +1,6 @@
 ## Hi there, I'm Alissa 👋
 
-UWI Honours graduate with a foundation in electronics, instrumentation, and circuit theory, building toward a career in control systems and industrial data engineering. I'm self-teaching Python and documenting reproducible programming projects here as I work toward systems integration and data analyst roles.
+Trinidad-based UWI Honours graduate with a foundation in electronics, instrumentation, and circuit theory, building toward a career in control systems and industrial data engineering. I'm self-teaching Python and documenting reproducible programming projects here as I work toward systems integration and data analyst roles.
 
 ---
 

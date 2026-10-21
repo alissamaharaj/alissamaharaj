@@ -7,6 +7,7 @@ UWI Honours graduate with a foundation in electronics, instrumentation, and circ
 ### 🔧 Background
 
 - 🎓 BSc Biomedical Technology, University of the West Indies (Upper Second Class Honours)
+- 🔧 Diploma in Engineering - Maintenance Technology, City & Guilds [In Progress]
 - 📈 Biostatistics coursework in R: Hypothesis testing, correlation, and simple linear regression.
 - 🛠️ Systems Analytics & Compliance: Automated asset logging, data-driven preventative maintenance analysis, and system verification routines.
 - 🧾 CMMS Certification, ManWinWin Software

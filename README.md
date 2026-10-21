@@ -21,7 +21,7 @@ Projects will be added here as each self-study milestone is completed (reverse c
 
 | Project | Description | Status |
 |---|---|---|
-| _Coming soon_ |||
+| [due-diligence](https://github.com/alissamaharaj/due-diligence) | Component & Asset Management System ⌛ | ⌛ In Progress |
 | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) | Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 
 ### 📫 Get in touch

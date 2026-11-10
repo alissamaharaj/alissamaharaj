@@ -17,7 +17,7 @@ UWI Honours graduate with a foundation in electronics, instrumentation, and circ
 - 🐍 **Python & Data Fundamentals** (Python for Everybody): Data structures, basic SQL with databases, and text parsing, applied through projects (see below)
 - 📊 **R & SQL:** Public data projects, next after Python.
 - 📉 **Power BI:** A dashboard built from a selected project, and taking the PL-300 exam.
-- 📐 **Signals & Systems and Feedback Systems** (MIT OCW): Foundations for graduate study, applied through projects in GNU Octave and Python, planned for later in the roadmap.
+- 📐 **Signals & Systems and Feedback Systems**: Foundations for graduate study, applied through projects in GNU Octave and Python, planned for later in the roadmap.
 
 ### 🚀 Projects
 

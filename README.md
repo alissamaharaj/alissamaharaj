@@ -25,6 +25,7 @@ Projects will be added here as each self-study milestone is completed (reverse c
 
 | Project | Description | Status |
 |---|---|---|
+| [under-pressure](https://github.com/alissamaharaj/under-pressure) | NHANES BP Regression 📊 | ⌛ In Progress |
 | [due-diligence](https://github.com/alissamaharaj/due-diligence) | Component & Asset Management System ⌛ | ✅ Completed |
 | [alarmist-sim](https://github.com/alissamaharaj/alarmist-sim) | Alarm & Safety Logic Simulator 🚨 | ✅ Completed |
 
